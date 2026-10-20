@@ -1,12 +1,12 @@
 # Hi 👋, I'm Sodiq Alase
 
-**Senior Frontend Engineer · Scalable Web Architecture**
+**Senior Frontend Engineer · Web Architect**
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a Senior Frontend Engineer with 6+ years of experience building scalable, secure, and high-performance web applications. I enjoy solving complex engineering problems, designing maintainable frontend architectures, and turning business requirements into intuitive digital experiences.
+A Senior Frontend Engineer with 6+ years of experience building scalable, secure, and high-performance web applications. I enjoy solving complex engineering problems, designing maintainable frontend architectures, and turning business requirements into intuitive digital experiences.
 
 My work goes beyond building interfaces. I focus on frontend architecture, micro-frontends, monorepos, design systems, performance optimization, and engineering reliability. I care about clean, strongly typed code, comprehensive automated testing, and building systems that help teams ship confidently without compromising quality.
 
@@ -121,5 +121,4 @@ I'm always happy to connect with engineers, exchange ideas, and collaborate on m
 
 ---
 
-*Building thoughtful interfaces. Designing scalable systems. Engineering for reliability.*
 
