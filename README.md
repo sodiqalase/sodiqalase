@@ -1,9 +1,11 @@
-Hi 👋, I'm Sodiq Alase
-Senior Frontend Engineer · Scalable Web Architecture · Engineering Excellence
+# Hi 👋, I'm Sodiq Alase
 
+**Senior Frontend Engineer · Scalable Web Architecture · Engineering Excellence**
 
+---
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
+
 I'm a Senior Frontend Engineer with 6+ years of experience building scalable, secure, and high-performance web applications. I enjoy solving complex engineering problems, designing maintainable frontend architectures, and turning business requirements into intuitive digital experiences.
 
 My work goes beyond building interfaces. I focus on frontend architecture, micro-frontends, monorepos, design systems, performance optimization, and engineering reliability. I care about clean, strongly typed code, comprehensive automated testing, and building systems that help teams ship confidently without compromising quality.
@@ -15,8 +17,10 @@ My work goes beyond building interfaces. I focus on frontend architecture, micro
 - 🤖 AI-assisted engineering: Exploring AI coding agents and agentic development workflows.
 - 🤝 Collaboration: Partnering with Product, Design, Backend, QA, and engineering teams to deliver useful solutions.
 - 📍 Based in Lagos, Nigeria.
-🛠️ Tech Stack & Tools
-💻 Languages & Web Fundamentals
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages & Web Fundamentals
 
 <p>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
@@ -26,7 +30,8 @@ My work goes beyond building interfaces. I focus on frontend architecture, micro
   <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" /></a>
 </p>
 
-⚛️ Frameworks & Libraries
+### ⚛️ Frameworks & Libraries
+
 <p>
   <a href="https://legacy.reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></a>
@@ -39,9 +44,8 @@ My work goes beyond building interfaces. I focus on frontend architecture, micro
   <a href="https://mui.com/"><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" /></a>
 </p>
 
+### 🏛️ Architecture & Engineering
 
-
-🏛️ Architecture & Engineering
 <p>
   <img src="https://img.shields.io/badge/Micro--frontends-5C6BC0?style=flat-square&logo=webpack&logoColor=white" alt="Micro-frontends" />
   <img src="https://img.shields.io/badge/Monorepos-333333?style=flat-square&logo=nx&logoColor=white" alt="Monorepos" />
@@ -53,8 +57,8 @@ My work goes beyond building interfaces. I focus on frontend architecture, micro
   <img src="https://img.shields.io/badge/Performance_Engineering-E65100?style=flat-square&logo=googlechrome&logoColor=white" alt="Performance Engineering" />
 </p>
 
+### 🧪 Testing & Quality
 
-🧪 Testing & Quality
 <p>
   <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" /></a>
   <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="Testing Library" /></a>
@@ -63,9 +67,8 @@ My work goes beyond building interfaces. I focus on frontend architecture, micro
   <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" /></a>
 </p>
 
+### 📊 Observability & Performance
 
-
-📊 Observability & Performance
 <p>
   <a href="https://newrelic.com/"><img src="https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" alt="New Relic" /></a>
   <a href="https://www.datadoghq.com/"><img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" /></a>
@@ -73,9 +76,7 @@ My work goes beyond building interfaces. I focus on frontend architecture, micro
   <img src="https://img.shields.io/badge/Logging_%26_Telemetry-546E7A?style=flat-square" alt="Logging and Telemetry" />
 </p>
 
-
-
-⚙️ Tooling & Workflow
+### ⚙️ Tooling & Workflow
 
 <p>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
@@ -90,16 +91,16 @@ My work goes beyond building interfaces. I focus on frontend architecture, micro
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /></a>
 </p>
 
-
-
-🌱 Current Interests
+## 🌱 Current Interests
 
 - 🤖 AI-assisted software engineering, coding agents, and agentic workflows.
 - 🧱 Scalable frontend platforms, shared packages, and developer experience.
 - 🔐 Secure multi-tenant applications and permission-driven user experiences.
 - ⚡ Performance engineering, observability, and resilient applications.
 - 🧪 Sustainable testing strategies across unit, integration, and end-to-end layers.
-🤝 Let's Connect
+
+## 🤝 Let's Connect
+
 I'm always happy to connect with engineers, exchange ideas, and collaborate on meaningful projects involving frontend engineering, architecture, and developer tooling.
 
 
