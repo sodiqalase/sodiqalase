@@ -109,6 +109,16 @@ My work goes beyond building interfaces. I focus on frontend architecture, micro
 
 I'm always happy to connect with engineers, exchange ideas, and collaborate on meaningful projects involving frontend engineering, architecture, and developer tooling.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/sodiqalase/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sodiqalase@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Lagos%2C%20Nigeria-008751?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
 ---
 
 *Building thoughtful interfaces. Designing scalable systems. Engineering for reliability.*
