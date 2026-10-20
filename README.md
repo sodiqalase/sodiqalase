@@ -60,3 +60,4 @@ I'm always happy to connect with engineers, exchange ideas, and collaborate on m
 
 ---
 
+*Building thoughtful interfaces. Designing scalable systems. Engineering for reliability.*
